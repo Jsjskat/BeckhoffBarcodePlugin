@@ -12,7 +12,7 @@ name = "inventree-beckhoffbarcodeplugin"
 description = "Provides support for scanning Beckhoff barcodes"
 dynamic = ["version"]
 authors = [
-    { name = "Antoine Trotte",
+    { name = "Antoine Trotte" }
 ]
 readme = "README.md"
 license = "MIT"
