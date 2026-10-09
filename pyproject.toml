@@ -8,7 +8,7 @@ requires = ["setuptools", "twine", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "inventree-beckhoffbarcodeplugin"
+name = "beckhoffbarcodeplugin"
 description = "Provides support for scanning Beckhoff barcodes"
 dynamic = ["version"]
 authors = [
